@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-FILE=~/Desktop/Challenges/Example.txt
+FILE=~/Desktop/Challenges/CyberAcademyFile.txt
 CODE=From
 
 if grep -Fxq "Test1234" $FILE

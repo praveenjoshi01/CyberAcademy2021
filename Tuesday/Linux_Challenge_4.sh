@@ -3,7 +3,7 @@
 FILE1=~/Desktop/Challenges/file1.txt
 FILE2=~/Desktop/Challenges/file2.txt
 CODE=CyberAcademy2021
-if grep -Fxq "piped from file1 to file2" $FILE1 && grep -Fxq "piped from file1 to file2" $FILE2
+if grep -Fxq "Cyber Academy Linux Challenge 4" $FILE1 && grep -Fxq "Cyber Academy Linux Challenge 4" $FILE2
 then
 	echo "Congratulations, Challenge 4 code: $CODE"
 else
